@@ -1,5 +1,5 @@
 # bash simple web server
-![alt text](https://imgur.com/fhEHzwl)
+![alt text](image_url)
 
 To run simple bash server enter the project
 ./server.sh <envoirment>
